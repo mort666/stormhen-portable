@@ -9,6 +9,8 @@
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
+**This is a more bleeding edge version of the Portapps version of Stormhen portable, generally we will try to have the latest version available linked into the Portapps ecosystem. It is also highly unlikely that the 115.x.x thunderbird will be used here as the UI is god awful**
+
 ## About
 
 Stormhen (based on Mozilla Thunderbird) portable app made with 🚀 [Portapps](https://portapps.io).<br />

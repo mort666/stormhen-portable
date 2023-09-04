@@ -1,5 +1,11 @@
 # Changelog
 
+## 102.15.0-45 (2023/09/04)
+
+* Thunderbird 102.15.0
+* Portapps 3.8.0
+* Golang Bump 1.21
+
 ## 91.7.0-43 (2022/04/09)
 
 * Thunderbird 91.7.0
