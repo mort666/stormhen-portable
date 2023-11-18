@@ -1,15 +1,17 @@
-<p align="center"><a href="https://portapps.io/app/stormhen-portable/" target="_blank"><img width="100" src="https://github.com/portapps/stormhen-portable/blob/master/res/papp.png"></a></p>
+<p align="center"><a href="https://portapps.io/app/stormhen-portable/" target="_blank"><img width="100" src="https://github.com/mort666/stormhen-portable/blob/master/res/papp.png"></a></p>
 
 <p align="center">
-  <a href="https://portapps.io/app/stormhen-portable/#download"><img src="https://img.shields.io/github/release/portapps/stormhen-portable.svg?style=flat-square" alt="GitHub release"></a>
-  <a href="https://portapps.io/app/stormhen-portable/#download"><img src="https://img.shields.io/github/downloads/portapps/stormhen-portable/total.svg?style=flat-square" alt="Total downloads"></a>
-  <a href="https://github.com/portapps/stormhen-portable/actions?workflow=build"><img src="https://img.shields.io/github/actions/workflow/status/portapps/stormhen-portable/build.yml?label=build&logo=github&style=flat-square" alt="Build Status"></a>
-  <a href="https://goreportcard.com/report/github.com/portapps/stormhen-portable"><img src="https://goreportcard.com/badge/github.com/portapps/stormhen-portable?style=flat-square" alt="Go Report"></a>
+  <a href="https://github.com/mort666/stormhen-portable/releases"><img src="https://img.shields.io/github/release/mort666/stormhen-portable.svg?style=flat-square" alt="GitHub release"></a>
+  <a href="https://github.com/mort666/stormhen-portable/releases"><img src="https://img.shields.io/github/downloads/mort666/stormhen-portable/total.svg?style=flat-square" alt="Total downloads"></a>
+  <a href="https://github.com/mort666/stormhen-portable/actions?workflow=build"><img src="https://img.shields.io/github/actions/workflow/status/mort666/stormhen-portable/build.yml?label=build&logo=github&style=flat-square" alt="Build Status"></a>
+  <a href="https://goreportcard.com/report/github.com/mort666/stormhen-portable"><img src="https://goreportcard.com/badge/github.com/portapps/stormhen-portable?style=flat-square" alt="Go Report"></a>
   <br /><a href="https://github.com/sponsors/crazy-max"><img src="https://img.shields.io/badge/sponsor-crazy--max-181717.svg?logo=github&style=flat-square" alt="Become a sponsor"></a>
   <a href="https://www.paypal.me/crazyws"><img src="https://img.shields.io/badge/donate-paypal-00457c.svg?logo=paypal&style=flat-square" alt="Donate Paypal"></a>
 </p>
 
 **This is a more bleeding edge version of the Portapps version of Stormhen portable, generally we will try to have the latest version available linked into the Portapps ecosystem. It is also highly unlikely that the 115.x.x thunderbird will be used here as the UI is god awful**
+
+**Currently using the publicly released versions of the 102.15.x Thunderbird, which may not contain the latest _Security Updates_, which have not been applied to the 102.x.x releases of Thunderbird by the Mozilla devs. As a result, currently investigating possibility of backporting the fixes for currently outstanding CVEs.**
 
 ## About
 
